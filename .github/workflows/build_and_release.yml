@@ -48,7 +48,7 @@ jobs:
           INPUT_TARGET_REPOS: '[odeliadenise/activity-log]'
           INPUT_OUTPUT_STYLE: MARKDOWN
           INPUT_IGNORE_EVENTS: '[]'
-          INPUT_README-PATH: README.md
+          INPUT_README_PATH: README.md
           INPUT_COMMIT_MESSAGE: Update README.md
           INPUT_EVENT_LIMIT: '100'
         run: node ./dist/index.js
