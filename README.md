@@ -18,16 +18,106 @@ A GitHub Action that automatically updates your README file with the latest acti
 ## ✍️ Example
 
 <!--START_SECTION:activity-->
-1. 🔀 Merged a PR in a private repo
-2. 🔀 Merged [PR #17](https://github.com/Wiresense/wiresense.js/pull/17) in [Wiresense/wiresense.js](https://github.com/Wiresense/wiresense.js)
-3. 🗑️ Deleted a branch `depfu/batch_all/npm/2024-10-07` in [Wiresense/wiresense.js](https://github.com/Wiresense/wiresense.js)
-4. 🔎 Reviewed [PR #17](https://github.com/Wiresense/wiresense.js/pull/17) in [Wiresense/wiresense.js](https://github.com/Wiresense/wiresense.js)
-5. 🔀 Merged [PR #33](https://github.com/Wiresense/frontend/pull/33) in [Wiresense/frontend](https://github.com/Wiresense/frontend)
-6. 🔀 Merged [PR #16](https://github.com/Wiresense/wiresense.js/pull/16) in [Wiresense/wiresense.js](https://github.com/Wiresense/wiresense.js)
-7. 🔎 Reviewed [PR #16](https://github.com/Wiresense/wiresense.js/pull/16) in [Wiresense/wiresense.js](https://github.com/Wiresense/wiresense.js)
-8. 🔀 Merged [PR #31](https://github.com/Wiresense/frontend/pull/31) in [Wiresense/frontend](https://github.com/Wiresense/frontend)
-9. 📝 Committed to [Wiresense/frontend](https://github.com/Wiresense/frontend/commit/c3033c6dd92c6ba79069aec4be284256be551447)
-10. 🔎 Reviewed [PR #31](https://github.com/Wiresense/frontend/pull/31) in [Wiresense/frontend](https://github.com/Wiresense/frontend)
+1. 📝 Committed to a private repo
+2. 📝 Committed to a private repo
+3. 📝 Committed to [odeliadenise/activity-log](https://github.com/odeliadenise/activity-log/commit/a7a37ed0d1752a024e69410072e1685d048d915b)
+4. 📝 Committed to [odeliadenise/activity-log](https://github.com/odeliadenise/activity-log/commit/05174ac1c33526e865c2e520187ca393d8c20546)
+5. 📝 Committed to [odeliadenise/activity-log](https://github.com/odeliadenise/activity-log/commit/8fef678ad353e39e7d87980ee7ff562a5db9d9ef)
+6. 📝 Committed to [odeliadenise/activity-log](https://github.com/odeliadenise/activity-log/commit/d8129038d2c277815726e9e49f797e90ce2c57cd)
+7. 📝 Committed to [odeliadenise/activity-log](https://github.com/odeliadenise/activity-log/commit/010589b4adbd3ea402744c76872738262fa9d039)
+8. 🍴 Forked [TheDanniCraft/activity-log](https://github.com/TheDanniCraft/activity-log)
+9. 📝 Committed to a private repo
+10. 📝 Committed to a private repo
+11. 🗑️ Deleted a branch `BP-2-As-a-user-I-want-GitHub-to-automatically-update-README-file-so-I-can-keep-on-track-on-recent-activities` in a private repo
+12. 📝 Committed to a private repo
+13. 🔀 Merged a PR in a private repo
+14. 📥 Opened a PR in a private repo
+15. 📝 Committed to a private repo
+16. 📝 Committed to a private repo
+17. 🗑️ Deleted a branch `BP-2-As-a-user-I-want-to-schedule-future-payments-so-I-can-ensure-my-bills-are-paid-on-time` in a private repo
+18. 🎉 Created a new private repository
+19. ➕ Created a new branch `main` in a private repo
+20. 🗑️ Deleted a branch `BP-2-As-a-user-I-want-to-schedule-future-payments-so-I-can-ensure-my-bills-are-paid-on-time` in a private repo
+21. 🗑️ Deleted a branch `revert-1-BP-2-As-a-user-I-want-to-schedule-future-payments-so-I-can-ensure-my-bills-are-paid-on-time` in a private repo
+22. ❌ Closed a PR in a private repo
+23. 📥 Opened a PR in a private repo
+24. 📝 Committed to a private repo
+25. ➕ Created a new branch `revert-1-BP-2-As-a-user-I-want-to-schedule-future-payments-so-I-can-ensure-my-bills-are-paid-on-time` in a private repo
+26. ➕ Created a new branch `BP-2-As-a-user-I-want-to-schedule-future-payments-so-I-can-ensure-my-bills-are-paid-on-time` in a private repo
+27. 📝 Committed to a private repo
+28. 📝 Committed to a private repo
+29. 🗑️ Deleted a branch `BP-2-As-a-user-I-want-to-schedule-future-payments-so-I-can-ensure-my-bills-are-paid-on-time` in a private repo
+30. 📝 Committed to a private repo
+31. 🔀 Merged a PR in a private repo
+32. 📥 Opened a PR in a private repo
+33. 📝 Committed to a private repo
+34. 📝 Committed to a private repo
+35. ➕ Created a new branch `main` in a private repo
+36. 🎉 Created a new private repository
+37. 🆕 Opened an issue in a private repo
+38. ➕ Created a new branch `SCRUM-17-Upload-the-poster-to-social-media` in a private repo
+39. ➕ Created a new branch `SCRUM-11-Consumption` in a private repo
+40. ➕ Created a new branch `SCRUM-24-Registration` in a private repo
+41. ➕ Created a new branch `SCRUM-8-Promotion` in a private repo
+42. 🗑️ Deleted a branch `SCRUM-11-Consumption` in a private repo
+43. ➕ Created a new branch `SCRUM-11-Consumption` in a private repo
+44. 📝 Committed to a private repo
+45. ➕ Created a new branch `main` in a private repo
+46. 🎉 Created a new private repository
+47. 📝 Committed to a private repo
+48. 📝 Committed to a private repo
+49. 📝 Committed to [odeliadenise/activity-log](https://github.com/odeliadenise/activity-log/commit/a7a37ed0d1752a024e69410072e1685d048d915b)
+50. 📝 Committed to [odeliadenise/activity-log](https://github.com/odeliadenise/activity-log/commit/05174ac1c33526e865c2e520187ca393d8c20546)
+51. 📝 Committed to [odeliadenise/activity-log](https://github.com/odeliadenise/activity-log/commit/8fef678ad353e39e7d87980ee7ff562a5db9d9ef)
+52. 📝 Committed to [odeliadenise/activity-log](https://github.com/odeliadenise/activity-log/commit/d8129038d2c277815726e9e49f797e90ce2c57cd)
+53. 📝 Committed to [odeliadenise/activity-log](https://github.com/odeliadenise/activity-log/commit/010589b4adbd3ea402744c76872738262fa9d039)
+54. 🍴 Forked [TheDanniCraft/activity-log](https://github.com/TheDanniCraft/activity-log)
+55. 📝 Committed to a private repo
+56. 📝 Committed to a private repo
+57. 🗑️ Deleted a branch `BP-2-As-a-user-I-want-GitHub-to-automatically-update-README-file-so-I-can-keep-on-track-on-recent-activities` in a private repo
+58. 📝 Committed to a private repo
+59. 🔀 Merged a PR in a private repo
+60. 📥 Opened a PR in a private repo
+61. 📝 Committed to a private repo
+62. 📝 Committed to a private repo
+63. 🗑️ Deleted a branch `BP-2-As-a-user-I-want-to-schedule-future-payments-so-I-can-ensure-my-bills-are-paid-on-time` in a private repo
+64. 🎉 Created a new private repository
+65. ➕ Created a new branch `main` in a private repo
+66. 🗑️ Deleted a branch `BP-2-As-a-user-I-want-to-schedule-future-payments-so-I-can-ensure-my-bills-are-paid-on-time` in a private repo
+67. 🗑️ Deleted a branch `revert-1-BP-2-As-a-user-I-want-to-schedule-future-payments-so-I-can-ensure-my-bills-are-paid-on-time` in a private repo
+68. ❌ Closed a PR in a private repo
+69. 📥 Opened a PR in a private repo
+70. 📝 Committed to a private repo
+71. ➕ Created a new branch `revert-1-BP-2-As-a-user-I-want-to-schedule-future-payments-so-I-can-ensure-my-bills-are-paid-on-time` in a private repo
+72. ➕ Created a new branch `BP-2-As-a-user-I-want-to-schedule-future-payments-so-I-can-ensure-my-bills-are-paid-on-time` in a private repo
+73. 📝 Committed to a private repo
+74. 📝 Committed to a private repo
+75. 🗑️ Deleted a branch `BP-2-As-a-user-I-want-to-schedule-future-payments-so-I-can-ensure-my-bills-are-paid-on-time` in a private repo
+76. 📝 Committed to a private repo
+77. 🔀 Merged a PR in a private repo
+78. 📥 Opened a PR in a private repo
+79. 📝 Committed to a private repo
+80. 📝 Committed to a private repo
+81. ➕ Created a new branch `main` in a private repo
+82. 🎉 Created a new private repository
+83. 🆕 Opened an issue in a private repo
+84. ➕ Created a new branch `SCRUM-17-Upload-the-poster-to-social-media` in a private repo
+85. ➕ Created a new branch `SCRUM-11-Consumption` in a private repo
+86. ➕ Created a new branch `SCRUM-24-Registration` in a private repo
+87. ➕ Created a new branch `SCRUM-8-Promotion` in a private repo
+88. 🗑️ Deleted a branch `SCRUM-11-Consumption` in a private repo
+89. ➕ Created a new branch `SCRUM-11-Consumption` in a private repo
+90. 📝 Committed to a private repo
+91. ➕ Created a new branch `main` in a private repo
+92. 🎉 Created a new private repository
+93. 📝 Committed to a private repo
+94. 📝 Committed to a private repo
+95. 📝 Committed to [odeliadenise/activity-log](https://github.com/odeliadenise/activity-log/commit/a7a37ed0d1752a024e69410072e1685d048d915b)
+96. 📝 Committed to [odeliadenise/activity-log](https://github.com/odeliadenise/activity-log/commit/05174ac1c33526e865c2e520187ca393d8c20546)
+97. 📝 Committed to [odeliadenise/activity-log](https://github.com/odeliadenise/activity-log/commit/8fef678ad353e39e7d87980ee7ff562a5db9d9ef)
+98. 📝 Committed to [odeliadenise/activity-log](https://github.com/odeliadenise/activity-log/commit/d8129038d2c277815726e9e49f797e90ce2c57cd)
+99. 📝 Committed to [odeliadenise/activity-log](https://github.com/odeliadenise/activity-log/commit/010589b4adbd3ea402744c76872738262fa9d039)
+100. 🍴 Forked [TheDanniCraft/activity-log](https://github.com/TheDanniCraft/activity-log)
 <!--END_SECTION:activity-->
 
 ## 📖Usage
